@@ -23,14 +23,14 @@
 
 # 모델과 데이터셋
 
-![Untitled 1](https://github.com/boostcampaitech5/level3_nlp_finalproject-nlp-10/assets/126731473/36eb5419-e1dd-4a23-949f-f8704d50dc80)
+![Untitled](https://github.com/boostcampaitech5/level3_nlp_finalproject-nlp-10/assets/126731473/f335dd6d-36e0-4f6c-8aa7-7d1c445af51d)
 
 <aside>
 ⚫ 단어 빈도수 기반의 BERTopic 모델과 TF-IDF 모델, KoBERT, RoBERTa 모델을 사용하였습니다.
 
 </aside>
 
-![Untitled](%5BNLP-10%5D%20%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%AF%E1%84%83%E1%85%B3%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%20c10beb9ff7134ab78e29b7e39c7b0d82/Untitled%201.png)
+![Untitled 1](https://github.com/boostcampaitech5/level3_nlp_finalproject-nlp-10/assets/126731473/36eb5419-e1dd-4a23-949f-f8704d50dc80)
 
 <aside>
 ⚫ 왓챠피디아 리뷰 데이터, Naver sentiment movie corpus v1.0 데이터를 사용하였습니다.
@@ -41,7 +41,7 @@
 
   
 
-![Untitled](%5BNLP-10%5D%20%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%AF%E1%84%83%E1%85%B3%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%20c10beb9ff7134ab78e29b7e39c7b0d82/Untitled%202.png)
+![Untitled 2](https://github.com/boostcampaitech5/level3_nlp_finalproject-nlp-10/assets/126731473/a57beae7-daa3-4ab4-a312-282ff4a21e36)
 
 <aside>
 🛠 PostgreSQL과 Elastic ELK stack을 통해 모델 학습된 결과를 신뢰성있게 유지, 관리, 모니터링해주며 서비스의 성능도 올려줍니다.
