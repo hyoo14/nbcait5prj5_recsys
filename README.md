@@ -23,7 +23,7 @@
 
 # 모델과 데이터셋
 
-![Untitled](%5BNLP-10%5D%20%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%AF%E1%84%83%E1%85%B3%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%92%E1%85%AA%20%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%20c10beb9ff7134ab78e29b7e39c7b0d82/Untitled.png)
+![Untitled 1](https://github.com/boostcampaitech5/level3_nlp_finalproject-nlp-10/assets/126731473/36eb5419-e1dd-4a23-949f-f8704d50dc80)
 
 <aside>
 ⚫ 단어 빈도수 기반의 BERTopic 모델과 TF-IDF 모델, KoBERT, RoBERTa 모델을 사용하였습니다.
