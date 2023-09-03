@@ -1,11 +1,16 @@
-# 키워드기반 영화 추천 및 리뷰 분석
+# [NLP-10] 키워드기반 영화 추천 및 리뷰 분석
 
-프로젝트명: 키워드기반 영화 추천 및 리뷰 분석
-프로젝트 한줄 요약: 키워드 기반 영화 추천 및 
-팀명: 재준아어디가
-팀원: 효건 김, Taehyeong Kim, 성기륜, Hyunwoo Yoo, Seongpyo Hong
-도메인: NLP
-테크 스택: CSS, ElasticSearch, FastAPI, GCP, Logstash, Numpy, Pandas, PostgreSQL, PyTorch, Python, Selenium, Transformers, TypeScript, WandB, kibana
+* 프로젝트명: 키워드기반 영화 추천 및 리뷰 분석 
+
+* 프로젝트 한줄 요약: 키워드 기반 영화 추천 및 분석
+
+* 팀명: 재준아어디가
+
+* 팀원: 효건 김, Taehyeong Kim, 성기륜, Hyunwoo Yoo, Seongpyo Hong
+
+* 도메인: NLP
+
+* 테크 스택: CSS, ElasticSearch, FastAPI, GCP, Logstash, Numpy, Pandas, PostgreSQL, PyTorch, Python, Selenium, Transformers, TypeScript, WandB, kibana
 
 # 프로젝트 소개
 
